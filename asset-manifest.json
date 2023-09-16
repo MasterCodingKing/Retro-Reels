@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Retro-Reels/static/css/main.5d0a0ee7.css",
-    "main.js": "/Retro-Reels/static/js/main.81de20c8.js",
+    "main.js": "/Retro-Reels/static/js/main.ff9d59b4.js",
     "static/js/787.14e4bc02.chunk.js": "/Retro-Reels/static/js/787.14e4bc02.chunk.js",
     "static/media/download.jpg": "/Retro-Reels/static/media/download.b46cc2711018f3a196da.jpg",
     "index.html": "/Retro-Reels/index.html",
     "main.5d0a0ee7.css.map": "/Retro-Reels/static/css/main.5d0a0ee7.css.map",
-    "main.81de20c8.js.map": "/Retro-Reels/static/js/main.81de20c8.js.map",
+    "main.ff9d59b4.js.map": "/Retro-Reels/static/js/main.ff9d59b4.js.map",
     "787.14e4bc02.chunk.js.map": "/Retro-Reels/static/js/787.14e4bc02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d0a0ee7.css",
-    "static/js/main.81de20c8.js"
+    "static/js/main.ff9d59b4.js"
   ]
 }
